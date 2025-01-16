@@ -30,3 +30,7 @@ Este proyecto permite a los usuarios:
 3. Repite el proceso para agregar más participantes
 4. Cuando la lista esté completa, haz clic en "Sortear amigo"
 5. ¡El resultado del sorteo aparecerá en pantalla!
+
+## Página del proyecto 🌐
+
+Puedes acceder a la aplicación en [GitHub Pages](https://lucort91.github.io/Alura-Amigo-Secreto/)
